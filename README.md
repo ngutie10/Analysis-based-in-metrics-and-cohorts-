@@ -1,6 +1,8 @@
 # Analysis-based-in-metrics-and-cohorts
 
-This repository provides a sample of my capabilities in performing Data analysis using cohort analysis and answering questions through the estimation of metrics. The project is a simulated analysis with the following objectives:
+This repository provides a sample of my capabilities in performing Data analysis using cohort analysis and answering questions through the estimation of metrics. 
+
+The project is a simulated analysis with the following objectives:
 
 <li>Identify how customers use the service
 <li>Estimate when they begin making purchases
