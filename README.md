@@ -1,4 +1,4 @@
-# Analysis-based-in-metrics-and-cohorts
+# Analysis-based-in-KPIs-and-cohorts
 
 This repository provides a sample of my capabilities in performing Data analysis using cohort analysis and answering questions through the estimation of metrics. 
 
