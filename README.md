@@ -9,8 +9,11 @@ The project is a simulated analysis with the following objectives:
 <li>Calculate how much revenue each customer generates for the company
 <li>Estimate when revenues offset customer acquisition costs
 <h2>The Analysis:</h2>
-consisted of various steps such as the following: 
-General data sets inspection and preparation, descriptive statistic analysis to estimate the distributions of visits and number of users on the website per time period. A cohort analysis was performed to analyse the purchases of users over time and the user retention percentage. A conversion rate was estimated from visitors to customers. Finaly, a cohort analysis was performed to evaluate the return on investment of marketing per source.
+consisted of three main steps as follows: 
+<li> General data sets inspection and preparation for analysis.
+<li> Descriptive statistical analysis to estimate the distributions of visits and the number of users on the website per time period. 
+<li> A cohort analysis was performed to analyse the conversion rates of users over time and the user retention percentage. This allows us to measure the efficiency of the bussiness and analyse the behaviour of the customers.
+<li> Finally, a cohort analysis was performed to evaluate the return on the investment of each marketing source.
 <h2>Conclusions</h2>
 
 <li>Identify how customers use the service:
@@ -22,7 +25,7 @@ The highest customer activity was observed in November 2017.
 
 <li>Calculate how much revenue each customer contributes to the company.
 
-  Customers who visit only once spend an average of 4.80 USD In contrast, returning customers contribute approximately 14 USD on average.
+  Customers who visit only once spend an average of 4.80 USD. In contrast, returning customers contribute approximately 14 USD on average.
 
 <li>Estimate when revenues offset customer acquisition costs: 
 
